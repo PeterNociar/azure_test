@@ -1,0 +1,27 @@
+<publishData>
+    <publishProfile profileName="nociar-test - Web Deploy" publishMethod="MSDeploy"
+                    publishUrl="nociar-test.scm.azurewebsites.net:443" msdeploySite="nociar-test"
+                    userName="$nociar-test" userPWD="EneXkLgrkJ3qjk37cDHxdrLlipvo6wohqLDHFyuKJg8h6b9YC4G7jH5hllfT"
+                    destinationAppUrl="https://nociar-test.azurewebsites.net" SQLServerDBConnectionString=""
+                    mySQLDBConnectionString="" hostingProviderForumLink="" controlPanelLink="http://windows.azure.com"
+                    webSystem="WebSites">
+        <databases/>
+    </publishProfile>
+    <publishProfile profileName="nociar-test - FTP" publishMethod="FTP"
+                    publishUrl="ftps://waws-prod-ln1-045.ftp.azurewebsites.windows.net/site/wwwroot"
+                    ftpPassiveMode="True" userName="nociar-test\$nociar-test"
+                    userPWD="EneXkLgrkJ3qjk37cDHxdrLlipvo6wohqLDHFyuKJg8h6b9YC4G7jH5hllfT"
+                    destinationAppUrl="https://nociar-test.azurewebsites.net" SQLServerDBConnectionString=""
+                    mySQLDBConnectionString="" hostingProviderForumLink="" controlPanelLink="http://windows.azure.com"
+                    webSystem="WebSites">
+        <databases/>
+    </publishProfile>
+    <publishProfile profileName="nociar-test - Zip Deploy" publishMethod="ZipDeploy"
+                    publishUrl="nociar-test.scm.azurewebsites.net:443" userName="$nociar-test"
+                    userPWD="EneXkLgrkJ3qjk37cDHxdrLlipvo6wohqLDHFyuKJg8h6b9YC4G7jH5hllfT"
+                    destinationAppUrl="https://nociar-test.azurewebsites.net" SQLServerDBConnectionString=""
+                    mySQLDBConnectionString="" hostingProviderForumLink="" controlPanelLink="http://windows.azure.com"
+                    webSystem="WebSites">
+        <databases/>
+    </publishProfile>
+</publishData>
